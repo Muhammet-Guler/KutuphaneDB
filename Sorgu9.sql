@@ -1,0 +1,1 @@
+ALTER TABLE Kayit ADD Kesin_Teslim_Tarihi timestamp

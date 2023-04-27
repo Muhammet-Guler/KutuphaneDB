@@ -1,0 +1,1 @@
+ALTER TABLE Uye ADD Mail varchar(255)
